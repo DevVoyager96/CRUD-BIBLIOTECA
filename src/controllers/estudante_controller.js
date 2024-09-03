@@ -1,4 +1,4 @@
-const model = require("../models/estudante_controller.js");
+const model = require("../models/estudante_model.js");
 
 const db = [];
 

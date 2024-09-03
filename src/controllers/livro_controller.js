@@ -1,4 +1,4 @@
-const model = require("../models/livro_controller.js");
+const model = require("../models/livro_model.js");
 
 const db = [];
 

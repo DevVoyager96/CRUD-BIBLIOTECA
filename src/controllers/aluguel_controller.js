@@ -1,4 +1,4 @@
-const model = require("../models/aluguel_controller.js");
+const model = require("../models/aluguel_model.js");
 
 const db = [];
 
